@@ -1,5 +1,7 @@
 # Personal Yahoo Fantasy Reader
+
 A personal, read-only tool for reading my own Yahoo Fantasy Football teams.
+
 What it does
 It reads my rosters, matchups, standings, available players, and transactions, and uses them to produce lineup and waiver recommendations for my own use only.
 All of this work can be, and today is, done by me manually. I already read my rosters, matchups, standings, available players, and transactions myself and make my own lineup and waiver decisions. This tool simply automates my own processes, in order to save time.
